@@ -9,7 +9,7 @@ export const Product = ({ item, color }) => {
         {item.price}$
       </div>
       <div style={{ backgroundColor: color + '40', color: color }} className="text-center py-3 tracking-wider mb-4 font-bold text-2xl  font-Oswald">
-        10 GOOGLE VOICE
+        20 GOOGLE VOICE
       </div>
       <div style={{ color: color }} className="text-2xl font-bold mb-3 px-3 space-y-1">
         <div className="flex items-center gap-2">
