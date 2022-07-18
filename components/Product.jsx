@@ -9,7 +9,7 @@ export const Product = ({ item, color }) => {
         {item.price}$
       </div>
       <div style={{ backgroundColor: color + '40', color: color }} className="text-center py-3 tracking-wider mb-4 font-bold text-2xl  font-Oswald">
-        2 GOOGLE VOICE
+        10 GOOGLE VOICE
       </div>
       <div style={{ color: color }} className="text-2xl font-bold mb-3 px-3 space-y-1">
         <div className="flex items-center gap-2">
@@ -18,7 +18,7 @@ export const Product = ({ item, color }) => {
         </div>
         <div className="flex items-center gap-2">
           <BsCheck2Circle />
-          <span className="text-base text-gray-900">2 Unique GV Number</span>
+          <span className="text-base text-gray-900">10 Unique GV Number</span>
         </div>
         <div className="flex items-center gap-2">
           <BsCheck2Circle />

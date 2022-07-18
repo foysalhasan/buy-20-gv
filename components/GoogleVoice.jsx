@@ -20,7 +20,7 @@ export const GoogleVoice = () => {
   return (
     <>
       <Head>
-        <title>Buy 2 Google Voice</title>
+        <title>Buy 10 Google Voice</title>
       </Head>
       <div className="bg-gray-200 min-h-screen py-4 container relative mx-auto flex flex-col items-center justify-center px-4 lg:px-10">
         <div className=" px-2 py-8 lg:px-8 w-full mx-auto max-w-full grid lg:grid-cols-4 gap-4">
@@ -31,7 +31,7 @@ export const GoogleVoice = () => {
           {isLoading ||
             (products?.length === 0 && (
               <div className="text-xl font-josefin font-medium text-rose-600">
-                2 Google Voice <span className="font-bold capitalize text-sky-600">Package</span> is Not Available RIght Now Please Select Another Package or
+                10 Google Voice <span className="font-bold capitalize text-sky-600">Package</span> is Not Available RIght Now Please Select Another Package or
                 Custom Number
               </div>
             ))}
