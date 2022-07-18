@@ -20,7 +20,7 @@ export const GoogleVoice = () => {
   return (
     <>
       <Head>
-        <title>Buy 5 Google Voice</title>
+        <title>Buy 2 Google Voice</title>
       </Head>
       <div className="bg-gray-200 min-h-screen py-4 container relative mx-auto flex flex-col items-center justify-center px-4 lg:px-10">
         <div className=" px-2 py-8 lg:px-8 w-full mx-auto max-w-full grid lg:grid-cols-4 gap-4">
