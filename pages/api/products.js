@@ -24,7 +24,7 @@ export default async function handler(req, res) {
   try {
     const { data } = await api.get('products', {
       category: '82',
-      tag: '85',
+      tag: '86',
       per_page: 100,
       stock_status: 'instock',
       status: 'publish',
