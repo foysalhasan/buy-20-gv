@@ -31,7 +31,7 @@ export const GoogleVoice = () => {
           {isLoading ||
             (products?.length === 0 && (
               <div className="text-xl font-josefin font-medium text-rose-600">
-                5 Google Voice <span className="font-bold capitalize text-sky-600">Package</span> is Not Available RIght Now Please Select Another Package or
+                2 Google Voice <span className="font-bold capitalize text-sky-600">Package</span> is Not Available RIght Now Please Select Another Package or
                 Custom Number
               </div>
             ))}
