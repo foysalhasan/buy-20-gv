@@ -18,7 +18,7 @@ export const Product = ({ item, color }) => {
         </div>
         <div className="flex items-center gap-2">
           <BsCheck2Circle />
-          <span className="text-base text-gray-900">10 Unique GV Number</span>
+          <span className="text-base text-gray-900">20 Unique GV Number</span>
         </div>
         <div className="flex items-center gap-2">
           <BsCheck2Circle />
